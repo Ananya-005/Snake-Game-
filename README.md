@@ -1,5 +1,7 @@
 # 🐍 Snake Game (JavaScript)
 
+![snake-game](https://github.com/user-attachments/assets/2b418afa-0c86-4284-a130-dfb4bf5003f4)
+
 A classic Snake game built using **HTML, CSS, and vanilla JavaScript**.  
 The player controls the snake using arrow keys, eats food to grow longer, and avoids collisions with walls and itself.  
 The game also stores the **high score using browser localStorage**, allowing progress to persist across sessions.
@@ -23,15 +25,14 @@ The game also stores the **high score using browser localStorage**, allowing pro
    git clone https://github.com/USERNAME/REPO_NAME.git
 2. Open index.html in your browser
 
-📌 Tech Stack
+## 📌 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
--HTML
--CSS
--JavaScript
+## 📈 Future Improvements
+- Mobile controls
+- Increasing difficulty levels
+- Sound effects
+- Online leaderboard
 
-📈 Future Improvements
-
--Mobile controls
--Increasing difficulty levels
--Sound effects
--Online leaderboard
